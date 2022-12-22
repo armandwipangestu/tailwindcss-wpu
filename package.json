@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/armandwipangestu/tailwindcss-wpu/issues"
   },
-  "homepage": "https://github.com/armandwipangestu/tailwindcss-wpu#readme"
+  "homepage": "https://github.com/armandwipangestu/tailwindcss-wpu#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
 }
